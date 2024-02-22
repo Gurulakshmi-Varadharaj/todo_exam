@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\todo-main\todo.data\bin\Debug\net6.0\todo.data.deps.json
+C:\Users\PC\Desktop\todo-main\todo.data\bin\Debug\net6.0\todo.data.dll
+C:\Users\PC\Desktop\todo-main\todo.data\bin\Debug\net6.0\ref\todo.data.dll
+C:\Users\PC\Desktop\todo-main\todo.data\bin\Debug\net6.0\todo.data.pdb
+C:\Users\PC\Desktop\todo-main\todo.data\bin\Debug\net6.0\todo.api.common.dll
+C:\Users\PC\Desktop\todo-main\todo.data\bin\Debug\net6.0\todo.api.common.pdb
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.AssemblyInfo.cs
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.csproj.CopyComplete
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.dll
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\ref\todo.data.dll
+C:\Users\PC\Desktop\todo-main\todo.data\obj\Debug\net6.0\todo.data.pdb
